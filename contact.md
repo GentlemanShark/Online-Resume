@@ -2,12 +2,12 @@
 layout: page
 title: Contact
 ---
-## Contact
-/n
-Stuart Trappe
-/n
-stuarttrappe9@gmail.com
-/n
-650-741-8062
-/n
+## Contact\
+
+Stuart Trappe\
+
+stuarttrappe9@gmail.com\
+
+650-741-8062\
+
 [LinkedIn](https://www.linkedin.com/in/stuart-trappe/)
