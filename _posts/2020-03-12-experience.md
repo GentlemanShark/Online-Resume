@@ -1,6 +1,8 @@
 ---
 title: Experience
 ---
+Self-motivated and driven innovator with a passion for technology and startups. Natural communicator with a proficiency in leadership in dynamic environments. Entrepreneurial mindset toward challenges and a proven ability to create solutions.
+
 
 ### Founder | MVHacks | San Francisco, CA
 #### January 2017 - June 2019
