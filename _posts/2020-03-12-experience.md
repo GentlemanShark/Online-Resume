@@ -1,7 +1,7 @@
 ---
 title: Experience
 ---
-Self-motivated and driven innovator with a passion for technology and startups. Natural communicator with a proficiency in leadership in dynamic environments. Entrepreneurial mindset toward challenges and a proven ability to create solutions.
+Brief Introduction: Self-motivated and driven innovator with a passion for technology and startups. Natural communicator with a proficiency in leadership in dynamic environments. Entrepreneurial mindset toward challenges and a proven ability to create solutions.
 
 ## Work Experience
 
