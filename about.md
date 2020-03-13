@@ -7,6 +7,6 @@ I am a student at the University of Arizona currently intending to pursue a doub
 
 Currently, I am in the PREMIER honorary, Zipperman Scholars Program, and Blue Chip Leadership which serve to develop my professionalism. Furthermore, I am the fundraising chair for the Eller Global Business Association and am involved in casing practice with the Arizona Consulting Club. My choice in majors allows me to see the higher level, big picture view of a business while still being able to dive into the nitty-gritty, technical details.
 
-In the future, I can see myself working for a big three consulting firm. I enjoy the diveristy of clients they serve as well as the variety of rpbolems I would be able to face. Longer term, I believe I would transition into a venture capital or startup acceleration role working with small businesses looking to become bigger.
+In the future, I can see myself working for a big three consulting firm. I enjoy the diveristy of clients they serve as well as the variety of problems I would be able to address. Longer term, I believe I would transition into a venture capital or startup acceleration role working with small businesses looking to become bigger.
 
 <img src="https://raw.githubusercontent.com/GentlemanShark/Online-Resume/master/img/Profile.png" width="225" height="300">
