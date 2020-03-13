@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
+title: Stuart Trappe's Online Resume
+description: "A digital blog and portfolio."
 url: "https://gentlemanshark.github.io/Online-Resume/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Stuart Trappe"
+  email: "stuarttrappe9@gmail.com"
+  url: "https://www.linkedin.com/in/stuart-trappe/"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
