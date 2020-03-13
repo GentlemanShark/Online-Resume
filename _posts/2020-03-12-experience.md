@@ -27,4 +27,12 @@ _MV Hardware is an independent computer hardware and keyboard manufacturer that 
 * Produced custom keyboard layouts and computer hardware featured on AMD’s social media channels
 
 ## Organization Experience
-
+* Zipperman Scholars Program - Competitive extracurricular program designed to provide exposure to MIS and job opportunities in the field
+* Blue Chip Leadership - Program focused on developing leaders through the teaching of leadership skills through engaging activities
+* PREMIER Honorary - A series of workshops and activities facilitated by Eller staff and students to develop professionalism
+* Eller Global Business Association Board - Serve as the fundraising chair for a club focused on a global perspective on business
+* Arizona Consulting Club - Engage regularly in informational interviews, case interviews, and skills development for the consulting industry
+* Enterprise Leadership Conference - Led my team as CEO in a product design challenge that competed against 70 other students to win 2nd place
+* Sea Scout Ordinary and Boy Scout First Class - Utilized leadership skills in a brisk and demanding environment aboard an ex-navy vessel
+* President, MVHS Computer Hardware Club – Organized a club to introduce students to the inner workings of computers and enabled students to create crafting their own envisioned projects
+* Outreach Coordinator, MVHS Computer Science Club – Revamped outreach strategies to target more underrepresented individuals to improve their inclusion and participation
