@@ -1,4 +1,10 @@
 ---
 title: Experience
 ---
-My name is Stuart Trappe and I am a first year student intending to pursue a double major in Business Economics and MIS. Being from the Silicon Valley, startups and the tech industry have been a massive part of my life. I am interested in working in the tech industry in a higher level, more strategy oriented position. Professionally, I enjoy working in supply chain, targetted advertising, and taking a behavioral economics approach to understanding purchasing habits. Besides those pursuits, I am also passionate about skiing and sailing, activities I have been doing since I was a kid.
+
+### Founder | MVHacks | San Francisco, CA
+#### January 2017 - June 2019
+MVHacks is a registered 501(c)(3) nonprofit organization that organizes high school hackathons
+* Organized event to host over 300 attendees for full day activities with mentors, equipment, and catering
+* Managed a team of ten to coordinate multiple events to bring computer science education to minority students
+* Led outreach, planned logistics, and secured $22,000 of financial sponsorships (Google, Microsoft, LinkedIn, Ford Research Labs, Cisco, and more)
