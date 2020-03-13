@@ -6,13 +6,13 @@ title: Contact
 
 
 
-**Stuart Trappe**
+**Name:** Stuart Trappe
 
 
-**stuarttrappe9@gmail.com**
+**Email:** stuarttrappe9@gmail.com
 
 
-**650-741-8062**
+**Phone:** 650-741-8062
 
 
-**[LinkedIn](https://www.linkedin.com/in/stuart-trappe/)**
+**LinkedIn:** [Profile](https://www.linkedin.com/in/stuart-trappe/)
