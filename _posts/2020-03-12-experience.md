@@ -5,6 +5,13 @@ Brief Introduction: Self-motivated and driven innovator with a passion for techn
 
 ## Work Experience
 
+### Marketing Intern | Scalable Press | San Francisco, CA
+##### July 2020 - September 2020
+_Scalable Press is a printing and fulfillment company that makes allows for fast, cheap, and accessible merchandise_
+*  Created student ambassador opportunities to increase and promote college artists selling on the platform
+*  Developed playbook for intern-style program to host virtual events and generate engagement on social media
+*  Identified key competitor advertising campaign strategies and evaluated targeting parameter efficacy
+
 ### Founder | MVHacks | San Francisco, CA
 ##### January 2017 - June 2019
 _MVHacks is a registered 501(c)(3) nonprofit organization that organizes high school hackathons_
@@ -26,6 +33,14 @@ _MV Hardware is an independent computer hardware and keyboard manufacturer that 
 * Delivered first VLP DDR4 SODIMMs to consumer market through the use of a crowdfunding business model
 * Produced custom keyboard layouts and computer hardware featured on AMD’s social media channels
 
+## Notable Skills
+* Familiar with Java, Python, and JavaScript
+* 3D design and electronics engineering
+* English and Spanish certified bilinguality
+* Online business and digital marketing
+* International shipping logistics
+* Data visualization in Tableau
+
 ## Organization Experience
 
 * **Zipperman Scholars Program** - Competitive extracurricular program designed to provide exposure to MIS and job opportunities in the field
@@ -35,10 +50,10 @@ _MV Hardware is an independent computer hardware and keyboard manufacturer that 
 * **President, MVHS Computer Hardware Club** – Organized a club to introduce students to the inner workings of computers and enabled students to create crafting their own envisioned projects
 * **Outreach Coordinator, MVHS Computer Science Club** – Revamped outreach strategies to target more underrepresented individuals to improve their inclusion and participation
 
-## Extra-Curricular Experience
+## Activites
 
-* **PREMIER Honorary** - A series of workshops and activities facilitated by Eller staff and students to develop professionalism
-* **SCCA and Hooked on Driving** Raced competitvely in local and national events in a variety of car classes
-* **Shoreline Lake and Bde Maka Ska Sailing Club** Raced small crafts in closed water courses
-* **Enterprise Leadership Conference** - Led my team as CEO in a product design challenge that competed against 70 other students to win 2nd place
-* **Sea Scout Ordinary and Boy Scout First Class** - Utilized leadership skills in a brisk and demanding environment aboard an ex-navy vessel
+* **Goldman Sachs Summer Insight Series** - Selected out of 5,000 students to explore a range of verticals in the finance industry, interact with employees in diverse roles, and problem solve with cohort of peers over 12 weeks
+* **Member, Alpha Kappa Psi (Professional Business Fraternity)** – Conducted 35+ interviews over 8 weeks, organized philanthropic event logistics for incoming class of 30, developed practical managerial skills through workshops
+* **Development Coordinator, Eller Global Business Association** – Construct presentation material to bring a worldly focus to business education, plan events to local companies with a global focus, lead volunteer work projects
+* **Leader, Premier Alumni Council** – Work with a driven subset of the freshman class to acquaint them with the Eller College and prepare them for more advanced material through workshops and peer collaboration activities
+* **Member, TAMID Group** - Directly engage with Israeli startups to provide pro-bono consulting services alongside other top university students to further our professional aspirations and gain real world experience in numerous fields
