@@ -41,19 +41,13 @@ _MV Hardware is an independent computer hardware and keyboard manufacturer that 
 * International shipping logistics
 * Data visualization in Tableau
 
-## Organization Experience
-
-* **Zipperman Scholars Program** - Competitive extracurricular program designed to provide exposure to MIS and job opportunities in the field
-* **Blue Chip Leadership** - Program focused on developing leaders through the teaching of leadership skills through engaging activities
-* **Eller Global Business Association Board** - Serve as the fundraising chair for a club focused on a global perspective on business
-* **Arizona Consulting Club** - Engage regularly in informational interviews, case interviews, and skills development for the consulting industry
-* **President, MVHS Computer Hardware Club** – Organized a club to introduce students to the inner workings of computers and enabled students to create crafting their own envisioned projects
-* **Outreach Coordinator, MVHS Computer Science Club** – Revamped outreach strategies to target more underrepresented individuals to improve their inclusion and participation
-
-## Activites
+## Organizational Experience
 
 * **Goldman Sachs Summer Insight Series** - Selected out of 5,000 students to explore a range of verticals in the finance industry, interact with employees in diverse roles, and problem solve with cohort of peers over 12 weeks
 * **Member, Alpha Kappa Psi (Professional Business Fraternity)** – Conducted 35+ interviews over 8 weeks, organized philanthropic event logistics for incoming class of 30, developed practical managerial skills through workshops
 * **Development Coordinator, Eller Global Business Association** – Construct presentation material to bring a worldly focus to business education, plan events to local companies with a global focus, lead volunteer work projects
 * **Leader, Premier Alumni Council** – Work with a driven subset of the freshman class to acquaint them with the Eller College and prepare them for more advanced material through workshops and peer collaboration activities
 * **Member, TAMID Group** - Directly engage with Israeli startups to provide pro-bono consulting services alongside other top university students to further our professional aspirations and gain real world experience in numerous fields
+* **Blue Chip Leadership** - Program focused on developing leaders through the teaching of leadership skills through engaging activities
+* **Arizona Consulting Club** - Engage regularly in informational interviews, case interviews, and skills development for the consulting industry
+* **Zipperman Scholars Program** - Competitive extracurricular program designed to provide exposure to MIS and job opportunities in the field
