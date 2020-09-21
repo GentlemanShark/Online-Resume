@@ -27,9 +27,17 @@ In some cases, the number of situations is small enough that this can be hard co
 ## What Does this All Mean?
 Artificial intelligence will have an ever-increasing role in nearly every aspect of life. It makes predictions cheaper and quicker allowing smarter decisions to be made. Modern businesses will leverage their capabilities to enhance every element of their strategy. Their ability to make decisions will further increase as will their applications. Human involvement will also increase and become more valuable as advanced judgement is needed.
 
-Sources
-http://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/
-https://www.csee.umbc.edu/courses/471/papers/turing.pdf
-https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html
-https://ai-alignment.com/thoughts-on-reward-engineering-82b193ec03f6
-Prediction Machines
+### Sources
+
+Agrawal, Ajay, et al. Prediction Machines the Simple Economics of Artificial Intelligence. Harvard Business Review Press, 2018. 
+
+Anyoha, Rockwell. “The History of Artificial Intelligence.” Science in the News, Harvard University Graduate School of Arts and Sciences, 38 Aug. 2017, sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/. 
+
+“Artificial Intelligence – What It Is and Why It Matters.” SAS, www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html. 
+
+Christiano, Paul. “Thoughts on Reward Engineering.” Medium, AI Alignment, 29 Nov. 2016, ai-alignment.com/thoughts-on-reward-engineering-82b193ec03f6. 
+
+Turing, Alan M. “Computing Machinery And Intelligence.” Mind, LIX, no. 236, 1 Oct. 1950, pp. 433–460., doi:10.1093/mind/lix.236.433. 
+
+Varian, Hal R. “Beyond Big Data.” Berkeley, University of California, 2014, people.ischool.berkeley.edu/~hal/Papers/2013/BeyondBigDataPaperFINAL.pdf. 
+
