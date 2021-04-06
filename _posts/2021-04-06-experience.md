@@ -44,10 +44,10 @@ _MV Hardware is an independent computer hardware and keyboard manufacturer that 
 ## Organizational Experience
 
 * **Goldman Sachs Summer Insight Series** - Selected out of 5,000 students to explore a range of verticals in the finance industry, interact with employees in diverse roles, and problem solve with cohort of peers over 12 weeks
+* **Vice President, Arizona Consulting Club** - Responsible for managing $30,000 in funding for annual New York trip, bringing in over 10 consultants a semester to speak, and developing workshops geared toward member interests
+* **FESO Representative, Eller Global Business Association** – Construct presentation material to bring a worldly focus to business education, plan events to local companies with a global focus, lead volunteer work projects
 * **Member, Alpha Kappa Psi (Professional Business Fraternity)** – Conducted 35+ interviews over 8 weeks, organized philanthropic event logistics for incoming class of 30, developed practical managerial skills through workshops
-* **Development Coordinator, Eller Global Business Association** – Construct presentation material to bring a worldly focus to business education, plan events to local companies with a global focus, lead volunteer work projects
 * **Leader, Premier Alumni Council** – Work with a driven subset of the freshman class to acquaint them with the Eller College and prepare them for more advanced material through workshops and peer collaboration activities
 * **Member, TAMID Group** - Directly engage with Israeli startups to provide pro-bono consulting services alongside other top university students to further our professional aspirations and gain real world experience in numerous fields
 * **Blue Chip Leadership** - Program focused on developing leaders through the teaching of leadership skills through engaging activities
-* **Arizona Consulting Club** - Engage regularly in informational interviews, case interviews, and skills development for the consulting industry
 * **Zipperman Scholars Program** - Competitive extracurricular program designed to provide exposure to MIS and job opportunities in the field
